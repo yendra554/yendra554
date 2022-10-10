@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ... on linkedin - www.linkedin.com/in/yendranarayan-verma
+- 📫 Reach me ... on linkedin - www.linkedin.com/in/yendranarayan-verma
 
 <!---
 yendra554/yendra554 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
