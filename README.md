@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yendranarayan Nerma
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working as Angular Developer
 - 💞️ I’m looking to collaborate on github
 - 📫 Reach me ... on linkedin - www.linkedin.com/in/yendranarayan-verma
 
